@@ -41,8 +41,12 @@ var BeautifulJekyllJS = {
     ) / 1000);
     if (brightness <= 125) {
       $(".navbar").removeClass("navbar-light").addClass("navbar-dark");
+      $(".navbar-brand-light").hide();
+      $(".navbar-brand-dark").show();
     } else {
       $(".navbar").removeClass("navbar-dark").addClass("navbar-light");
+      $(".navbar-brand-dark").hide();
+      $(".navbar-brand-light").show();
     }
   },
 
