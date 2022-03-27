@@ -38,7 +38,7 @@ a.btn {
 
 @media (min-width: 768px) {
   .main-explain-area {
-    padding: 3rem 3.75rem;
+    padding: 3rem 2.75rem;
   }
 }
 
@@ -140,4 +140,8 @@ a.btn {
 /* Purple ads */
 body.purpleads-hide #psdn-slot {
   display: none;
+}
+
+.button-paypal {
+  height: 64px;
 }
