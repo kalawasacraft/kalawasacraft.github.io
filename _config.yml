@@ -95,10 +95,10 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "kalawasacraft,games,developer,Peru,Arequipa"
+keywords: "kalawasacraft,games,developer,Peru,Arequipa,superame"
 
 # --- Colours / background image --- #
 
